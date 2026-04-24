@@ -8,3 +8,9 @@ Here is the list of the projects:
 - [Eating Animation Modded](https://github.com/Novalight-Studios/Eating-Animation-Modded)
 - [Fusion Connected Glass Compat](https://github.com/Novalight-Studios/Fusion-Connected-Glass-Compat)
 - [Legendary Tooltips x Equipment Compare](https://github.com/Novalight-Studios/LT-x-EC)
+- [WildLight Compat](https://github.com/Novalight-Studios/WildLight-Compat)
+
+
+## 🙏 Credits
+
+- Thanks to Annie for making the Novalight Studios logo
