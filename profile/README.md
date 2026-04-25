@@ -14,3 +14,24 @@ Here is the list of the projects:
 ## 🙏 Credits
 
 - Thanks to Annie for making the Novalight Studios logo
+
+## 🚀 Planned Features
+
+- [ ] Cursor Extended Compat (mew mod)
+  - [ ] Resource Packs arrows
+  - [ ] Auth Me buttons
+  - [ ] Sounds buttons
+  - [ ] Xander’s Sodium Options
+  - [ ] Modern World Creation buttons/arrows
+  - [ ] Cherished World star
+  - [ ] REI buttons
+  - [ ] IPN buttons
+- [ ] 3D Default Compat (new resource pack)
+  - [ ] Biomes O’ Plenty
+  - [ ] Critters & Companions
+  - [ ] Deeper & Darker
+  - [ ] Enhanced Workbenches
+  - [ ] Friends & Foes
+  - [ ] Pyrellium
+  - [ ] Wilder Wild
+  
