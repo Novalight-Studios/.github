@@ -18,14 +18,14 @@ Here is the list of the projects:
 ## 🚀 Planned Features
 
 - [ ] Cursor Extended Compat (mew mod)
-  - [ ] Resource Packs arrows
   - [ ] Auth Me buttons
+  - [ ] Cherished World star
+  - [ ] IPN buttons
+  - [ ] Modern World Creation buttons/arrows
+  - [ ] REI buttons
+  - [ ] Resource Packs arrows
   - [ ] Sounds buttons
   - [ ] Xander’s Sodium Options
-  - [ ] Modern World Creation buttons/arrows
-  - [ ] Cherished World star
-  - [ ] REI buttons
-  - [ ] IPN buttons
 - [ ] 3D Default Compat (new resource pack)
   - [ ] Biomes O’ Plenty
   - [ ] Critters & Companions
