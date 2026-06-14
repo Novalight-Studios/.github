@@ -17,7 +17,7 @@ Here is the list of the projects:
 
 ## 🚀 Planned Features
 
-- [ ] Cursor Extended Compat (mew mod)
+- [ ] Cursor Extended Compat (new mod)
   - [ ] Auth Me buttons
   - [ ] Cherished World star
   - [ ] IPN buttons
