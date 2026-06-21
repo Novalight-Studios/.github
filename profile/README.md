@@ -30,8 +30,9 @@ Here is the list of the projects:
   - [ ] Biomes O’ Plenty
   - [x] Copper Age Backport
   - [ ] Deeper & Darker
-  - [ ] Friends & Foes
+  - [x] Friends & Foes
   - [ ] Pyrellium
   - [x] Soul Candles
+  - [x] Vanilla Backport
   - [ ] Wilder Wild
   
