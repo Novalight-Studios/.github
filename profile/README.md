@@ -4,6 +4,7 @@ An organization to manage all the projects related to [WildLight](https://github
 These projects are mostly compat mods/resource packs. 
 
 Here is the list of the projects:
+- [3D Default Compat](https://github.com/Novalight-Studios/3D-Default-Compat)
 - [Better IPN Buttons](https://github.com/Novalight-Studios/Better-IPN-Buttons)
 - [Eating Animation Modded](https://github.com/Novalight-Studios/Eating-Animation-Modded)
 - [Fusion Connected Glass Compat](https://github.com/Novalight-Studios/Fusion-Connected-Glass-Compat)
@@ -26,7 +27,7 @@ Here is the list of the projects:
   - [ ] Resource Packs arrows
   - [ ] Sounds buttons
   - [ ] Xander’s Sodium Options
-- [ ] 3D Default Compat (new resource pack)
+- [ ] [3D Default Compat](https://github.com/Novalight-Studios/3D-Default-Compat)
   - [ ] Biomes O’ Plenty
   - [x] Copper Age Backport
   - [ ] Deeper & Darker
