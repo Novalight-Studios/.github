@@ -28,10 +28,10 @@ Here is the list of the projects:
   - [ ] Xander’s Sodium Options
 - [ ] 3D Default Compat (new resource pack)
   - [ ] Biomes O’ Plenty
-  - [ ] Critters & Companions
+  - [x] Copper Age Backport
   - [ ] Deeper & Darker
-  - [ ] Enhanced Workbenches
   - [ ] Friends & Foes
   - [ ] Pyrellium
+  - [x] Soul Candles
   - [ ] Wilder Wild
   
